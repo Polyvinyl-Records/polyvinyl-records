@@ -1,42 +1,38 @@
-# How to Use the Automation Tool:
-> Quickly schedule news, tracks, albums, banners, products, bundles and product lists to be ACTIVE or INACTIVE at a set time! 
+<!--# Dispatch Dept Documentation -->
 
-### Located Under Tools on the Menu Bar: <br />
-Select "Automators" <br />
-Or go straight here:  /cms/automators<br />
-<br />
-Select "+ Add" <br />
+![Dispatch Dept.](images/splash.png "Dispatch Dept. Logo")
 
 
-### Creating a New Automation: </br>
+### Complete website, fully hosted
+Fully integrated website and e-commerce platform.
 
-<kbd>![](example_1.png)</kbd>
-<br />
-<br />
+Manage your entire website: store, artist pages, discography, news posts, media pages, and beyond.  Display products and integrate shopping seamlessly throughout your site—not just in the store.
 
+We manage hosting of your entire site including file storage and databases using AWS’s secure and scalable systems.
 
-#### Name:
-Internal -- whatever you want! <br />
+### Customized and unique selling tools
 
-#### Trigger Time:<br />
-This time will be based on time zone the website is located.<br />
-Use 5 minute increments when setting time, otherwise will just round up to nearest 5 minute increment. <br />
+Advanced product bundling
 
-#### Active - Setting things to "Active" <br />
-Must already be inactive - will not turn active item inactive. <br />
-Add for each item you would like to include in the automation. <br />
-<br />
-__Example:__ 
-- Pre-order announcement. 
+Pre-order products (physical and digital)
 
-#### Inactive - Setting things to "Inactive" <br />
-__Example:__ 
-- Making products inactive when a sale ends.
-- Making products inactive in future when distribution rights change.
+Sell digital downloads (multiple formats including lossless)
 
-### Adding Items: 
+[**Sales**](sale.md)
 
-<kbd>![](example_2.png)</kbd>
+Full back-end customer and order management
 
-Select the type from the drop down. <br />
-Select the item you'd like to schedule & hit save! <br />
+###  So many additional features
+
+Coupons, discount codes, and gift cards
+
+Generate unlimited download codes
+
+Real-time reporting and sales dashboards
+
+Soundscan/Music Connect reporting
+
+Spotify pre-saves
+
+[**Timed releases**](automation.md)
+
