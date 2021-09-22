@@ -1,13 +1,12 @@
 # How to Schedule a Sale
 > Bulk update sale prices and determine length of sale. 
 
-## [Product Lists:](product_lists.md)
-The first step for setting up your sale is to create a [**Product List**](product_lists.md) for each group of sale items. We would recommend picking a few price tiers to group products into.
+## Getting Started
+### [Product Lists:](product_lists.md)
+Before you even create a new sale &mdash; the first step is to create a [**Product List**](product_lists.md) to group the sale items. We would recommend picking a few price tiers to group products into.
 
-**For example** $15, $20, $25 or 10%, 15%, 30% off. 
-
-##Getting Started
-#### Located Under Products on the Menu Bar: <br />
+**Example** $15, $20, $25 or 10%, 15%, 30% off. 
+### Located Under Products on the Menu Bar: <br />
 Select "Sale" at bottom of drop down menu <br />
 Or go straight here:  /cms/sale<br />
 <br />

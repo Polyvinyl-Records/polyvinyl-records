@@ -7,5 +7,6 @@
 * [How to Edit Footer](Footer.md)
 * **Sales**
 * [How to Schedule a Sale](sale.md)
+* [How to Add Sale Pricing](single_item_sale.md)
 * **Store**
 * [How to Create Product Lists](product_lists.md)

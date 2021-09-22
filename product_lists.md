@@ -1,5 +1,6 @@
 # How to Create Product Lists
-> Create lists of products to display throughout the site or in order to group certain products together. Use Product Lists to build Artist Stores, Sales, Webstore Sections and more! 
+> Create lists of products to display throughout the site or to group certain products together. 
+> Use Product Lists to build Artist Stores, Sales, Webstore Sections and more! 
 
 ![](/views/product_list_example.png)
 
@@ -56,14 +57,19 @@ You can use Product Lists to create Artist Stores! By default, the website will 
 
 ![](/views/auto_artist_store.png)
 
-If you create a new Product List at this same url, it will override it! This is also where you would add a banner image for your artist store. 
+By creating a new Product List at this same url, it will override the automatically generated one! So, make sure you're spelling the artist name correctly. This is also where you would add a banner image for your artist store. 
+
+See below for an example of an Artist Store, complete with banner and product list groups with labels:
 
  ![](views/artist_store.gif)
 
 ## Sales
-Create a Product List for each group of sale items. Pick a few price tiers (3-4).For example $15, $20, $25. 
+Create a Product List for each group of sale items. Pick a few price tiers (3-4). 
+
+**Example:** $15, $20, $25. 
 
 ## Webstore Sections
 
-You can create product lists to link to from youre website toolbar drop down. 
+You can create product lists to link to from the website toolbar drop down. 
+
 **Example:** Pre-Orders & New Releases, Featured Products
