@@ -7,7 +7,7 @@ The first step for setting up your sale is to create a [**Product List**](produc
 **For example** $15, $20, $25 or 10%, 15%, 30% off. 
 
 ##Getting Started
-### Located Under Products on the Menu Bar: <br />
+#### Located Under Products on the Menu Bar: <br />
 Select "Sale" at bottom of drop down menu <br />
 Or go straight here:  /cms/sale<br />
 <br />
