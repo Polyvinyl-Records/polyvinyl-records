@@ -6,7 +6,8 @@ The first step for setting up your sale is to create a [**Product List**](produc
 
 **For example** $15, $20, $25 or 10%, 15%, 30% off. 
 
-## Located Under Products on the Menu Bar: <br />
+##Getting Started
+### Located Under Products on the Menu Bar: <br />
 Select "Sale" at bottom of drop down menu <br />
 Or go straight here:  /cms/sale<br />
 <br />
@@ -37,7 +38,7 @@ Based on the type you can put in the next Value
 Affected Items: 
 select the Product List you built in the previous step above. 
 
-## Info View: 
+## Info View
 cms/sale/info/
 
 Here you can adjust inventory and see a list of all the products instances in this sale 
