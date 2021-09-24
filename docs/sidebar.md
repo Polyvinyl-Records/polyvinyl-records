@@ -16,4 +16,4 @@
 * **Store**
 * [How to Create Product Lists](product_lists.md)
 * **Tour**
-* [How to Edit & Troubleshoot Tour Dates](tour.md)
+* [How to Edit & Troubleshoot Tour Dates](tours.md)

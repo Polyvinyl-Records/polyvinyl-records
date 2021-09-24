@@ -7,13 +7,17 @@
 Or go straight here:  /cms/albums <br />
 Select: **+ Add** <br />
 
-Prior to creating an Album, the Artist must be created. 
+**Prior to creating an Album, the Artist must be created.** 
+
+If you are adding an album for an artist that has not yet been created just select the **+** next to the Artists drop down which will direct you back to the add Artist page view to add a new artist. 
 
 ## Smart Import 
-You can use the Smart Import tool to pull in data using Spotify. 
+You can use the Smart Import tool to quickly generate information using Spotify for existing albums. This will generate the album title, release date, release type, discograpy date, spotify URI and URL alias. 
 
-## Youtube video embed 
+If the album is unreleased or not available on Spotify &mdash; you can manually enter this information in. Remember to fill in the URL alias at the bottom. You'll likely want to keep these consistent throughout your site, replace spaces with underscores, for example: "album_name"
 
-These will be added by navigating to the track associated with the video. Select **+ Add** under the Media section. Here you may select MP3, WAV or YOUTUBE. 
+## Catalog Num
+This is the root catalog number and will be displayed on the discography page. 
 
-Please note the order YouTube videos are listed on the /media section is based on the order these were added. The most recently added will be displayed first. 
+## Discography Date & Release Date
+These dates may be different if you are reissuing a release. The Discography section will only display the Discography Date. the Product page will display the Release Date.  
