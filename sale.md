@@ -9,8 +9,7 @@ Before you even create a new sale &mdash; the first step is to create a [**Produ
 ### Located Under Products on the Menu Bar: <br />
 Select "Sale" at bottom of drop down menu <br />
 Or go straight here:  /cms/sale<br />
-<br />
-Select "+ Add" <br />
+Select **+ Add** <br />
 
 Add Sale Name. **The name you choose will be visible to customers on the product page:**
 

@@ -8,7 +8,6 @@
 ### Located Under Products on the Menu Bar: <br />
 Select "Product Lists" at bottom of drop down menu <br />
 Or go straight here:  /cms/prod-list<br />
-<br />
 Select **+ Add** <br />
 
 Click on the new Product List to edit. 

@@ -19,7 +19,7 @@ Discography
 The Store and Link modules allow you to create custom dropdowns.
 
 ## Link Module
-To create a custom dropdown, select the link module.  Enter a url the user should go to when clicking this link.  You may use internal links, such as /about or /about/privacy_policy.  You can use external links such as https://google.com.  Remember to include the https protocol.
+To create a custom dropdown, select the link module.  Enter a url the user should go to when clicking this link.  You may use internal links, such as /about or /about/privacy_policy.  You can use external links such as https://google.com. Remember to include the https protocol.
 
 To add links to the dropdown, click the link under the “header” or “module” columns.  You may link a webpage, a product list, or a custom link (internal or external).  The display order determines where each link lives in the dropdown.
 
