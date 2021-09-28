@@ -10,12 +10,12 @@ The Songkick Artist ID is "8490418"
 ![](views/songkick_artist_page.png)
 
 
-### Create a Songkick Tourbox Account 
+### Create a Songkick Tourbox Account, Claim Artists & Add Tour Dates
+We'll add more instructions here soon but if you already have this account set up with tour dates in Songkick you're good to go!  
 
-### Add Tour Dates into Songkick 
 
-### Update the Buy Links to display
-Currently these need to be added two places 
+### Update the Buy Links 
+Currently the tour date information needs to be added two places in Songkick. Follow the instructions for the widget. 
 
 ![](views/songkick.png)
 

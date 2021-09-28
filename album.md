@@ -20,4 +20,4 @@ If the album is unreleased or not available on Spotify &mdash; you can manually 
 This is the root catalog number and will be displayed on the discography page. 
 
 ## Discography Date & Release Date
-These dates may be different if you are reissuing a release. The Discography section will only display the Discography Date. the Product page will display the Release Date.  
+These dates may be different if you are reissuing a release. The Discography section will only display the Discography Date. The Product page will display the Release Date.  

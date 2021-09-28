@@ -1,5 +1,5 @@
 # How to Create a New Product:
-> Add instances (formats), description, overlays, Spotify URI and record label on the Product level. 
+> Add product description, overlays, Spotify URI and record label on the Product level. 
 
 ## Getting Started
 #### Located Under Products: <br />
@@ -10,7 +10,9 @@ Select: **+ Add** <br />
 
 
 ## Type 
-Select from the (PARENT) options in the drop down. **Example:** LP, CD, digital releases will have product types Music (PARENT)
+Select from the (PARENT) options in the drop down.
+
+**Example:** LP, CD, digital releases will have product types Music (PARENT)
 
 ## Youtube video embed 
 
