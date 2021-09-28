@@ -11,7 +11,7 @@ We've compiled some helpful tips here for utilizing all the features of the Disp
 
 
 ![](views/flow_chart.jpeg)
-
+<!-- 
 
 #### Complete website, fully hosted
 Fully integrated website and e-commerce platform.
@@ -34,8 +34,7 @@ Full back-end customer and order management
 
 ####  So many additional features
 
-Coupons, discount codes, and gift cards
-
+Coupons, discount codes, and gift cards 
 Generate unlimited download codes
 
 Real-time reporting and sales dashboards
@@ -44,6 +43,6 @@ Soundscan/Music Connect reporting
 
 Spotify pre-saves
 
-[**Timed releases**](automation.md)
+[**Timed releases**](automation.md)-->
 
 
