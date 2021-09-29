@@ -17,3 +17,5 @@
 * [How to Create Product Lists](product_lists.md)
 * **Tour**
 * [How to Edit Tour Dates](tours.md)
+* **Music Videos** 
+* [Add YouTube Videos](Youtube.md)
