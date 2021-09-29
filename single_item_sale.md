@@ -1,5 +1,5 @@
 # How to Add Sale Pricing to One Item 
-> You can schedule multiple items on sale by following the instructions **[here](sale.md)** &mdash; but if you just want to edit sale pricing for one item, you can edit this on the individual product instance page. 
+> You can schedule multiple items on sale by following the instructions **[here](sale.md)** &mdash; but if you just want to edit sale pricing for one item, you can edit this on the individual Product Instance page. 
 
 ## Getting Started 
 #### From the Menu Select Product Instances Under the Product Drop Down
@@ -12,7 +12,7 @@ Under the Price, add Sale Price
 
 ![](views/sale_price.png)
 
-The Sale Price will display on the product page with the regular price crossed out and the new sale price displayed next to the product instance: 
+The Sale Price will display on the Product Page with the regular price crossed out and the new sale price displayed next to the Product Instance: 
 
 ![](views/sale_pricing.png)
 
@@ -22,4 +22,6 @@ On the Product edit screen you can add an Overlay that will display on the produ
 
 ![](views/sale_overlay.png)
 
-**Don't forget to remove the Sale Pricing & Overlay manually if you only want the sale pricing to be for a limited time.** Sale pricing for individual product instances cannot currently be scheduled. 
+**Don't forget to remove the Sale Pricing & Overlay manually if you only want the sale pricing to be for a limited time.** 
+
+Sale pricing for individual product instances cannot currently be scheduled. 

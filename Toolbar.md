@@ -1,7 +1,7 @@
 ## Getting Started 
 #### Located Under Tools on the Menu Bar: <br />
 
-/cms/toolbar
+``/cms/toolbar``
 ![](views/toolbar.png)
 
 ## Toolbar Modules

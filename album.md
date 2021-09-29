@@ -4,7 +4,7 @@
 
 ## Getting Started
 #### Located Under Artists: <br />
-Or go straight here:  /cms/albums <br />
+Or go straight here:  ``/cms/albums`` <br />
 Select: **+ Add** <br />
 
 **Prior to creating an Album, the [Artist](artist_page.md) must be created.** 

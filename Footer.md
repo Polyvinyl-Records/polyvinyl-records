@@ -2,7 +2,7 @@
 ## Getting Started 
 #### Located Under Tools on the Menu Bar: <br />
 
-/cms/footer
+``/cms/footer``
 
 ![](views/footer.png)
 

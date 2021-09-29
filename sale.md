@@ -6,9 +6,10 @@
 Before you even create a new sale &mdash; the first step is to create a [**Product List**](product_lists.md) to group the sale items. We would recommend picking a few price tiers to group products into.
 
 **Example** $15, $20, $25 or 10%, 15%, 30% off. 
+
 ### Located Under Products on the Menu Bar: <br />
-Select "Sale" at bottom of drop down menu <br />
-Or go straight here:  /cms/sale<br />
+Select **Sale** in the Products drop down<br />
+Or go straight here:  ``/cms/sale``<br />
 Select **+ Add** <br />
 
 Add Sale Name. **The name you choose will be visible to customers on the product page:**
@@ -18,7 +19,7 @@ Add Sale Name. **The name you choose will be visible to customers on the product
 
 Next, select a Start Date & End Date
 
-Adjust Status to "Active" or "Inactive". If you've selected a future Start Date or want the sale to start right away, you can select Active and it will turn o n at the selected Start Date time.  
+Adjust Status to "Active" or "Inactive". If you've selected a future Start Date or want the sale to start right away, you can select Active and it will turn on at the selected Start Date time.  
 
 Select "Type" from the drop down options: 
 
@@ -31,15 +32,15 @@ Select "Type" from the drop down options:
 
 Based on the type you can put in the next Value
 
-**Example: if you select Flat Price you would add in $10.**
+**Example:** If you select Flat Price you would add in $10.
 
-Affected Items: 
-select the Product List you built in the previous step above. 
+## Affected Items: 
+Select the Product List you would like to apply the sale pricing to here &mdash; or select the **+** to create a new Product List. 
 
-## Info View
-cms/sale/info/
+## Sale Info View
+``cms/sale/info/``
 
-Here you can adjust inventory and see a list of all the products instances in this sale 
+Here you can adjust inventory and see a list of all the Products Instances included in your Sale. 
 
 This is a quick way to view the inventory of the sale items and edit as needed. 
 

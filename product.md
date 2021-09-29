@@ -3,7 +3,7 @@
 
 ## Getting Started
 #### Located Under Products: <br />
-Or go straight here:  /cms/products <br />
+Or go straight here:  ``/cms/products`` <br />
 Select: **+ Add** <br />
 
 **Prior to creating a Product, the [Album](album.md) and [Artist](artist_page.md) must be created.** 

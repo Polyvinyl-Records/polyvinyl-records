@@ -38,7 +38,7 @@ Once you've clicked add to create a new Artist, you will be taken to a blank edi
 
 If the Artist is not on Spotify &mdash; you can manually enter this information in. 
 
-**Remember to fill in the URL alias at the bottom.** To keep these consistent throughout your site, replace spaces with underscores so they match the Smart Import generated URLs, for example: "artist_name"
+**Remember to fill in the URL alias at the bottom.** To keep these consistent throughout your site, replace spaces with underscores so they match the Smart Import generated URLs, for example: ``/artist_name``
 
 ## Roster Status
 Choose between **Active Roster**, **Full Roster**, **Inactive** or **Not On Roster**. 
@@ -63,7 +63,8 @@ The Tour section on each Artist page as well as the main Tour section of the web
 
 Add Songkick Artist ID under **Extra Information**. You can find the artist Songkick Artist ID in the URL of their Songkick page
 
-**Example:** ``https://www.songkick.com/artists/8490418-katy-kirby``. The Songkick Artist ID is: **8490418**
+**Example:** ``https://www.songkick.com/artists/8490418-katy-kirby``. <br>
+The Songkick Artist ID is: **8490418**
 
 ![](views/songkick_artist_page.png)
 
@@ -74,12 +75,12 @@ For additional help troubleshooting any problems with tour dates displaying &mda
 The artist photo with the lowest display order will be shown on the Artist page. Only one photo can currently be displayed at a time. 
 
 ## Links
-Social media links will display underneath the Artist photo. You can edit these pages in the Links tab of the Artist Detail page: 
+Social media links will display underneath the Artist photo. You can edit these pages in the Links tab of the Artist detail / info page: 
 
 ![](views/artist_page_links.png)
 
 ## Releases
-Releases may be added to the artist page under the "Artist Page Albums" tab.  If there is a product associated with the album this image will be a link to that product.
+Releases may be added to the artist page under the "Artist Page Albums" tab. If there is a product associated with the album this image will be a link to that product.
 
 ## Featured Products
 These products will be displayed to the right of the Artist photo. We recommend having two products here, because adding too many can look a little chaotic, but you can add more!

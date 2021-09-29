@@ -7,11 +7,13 @@
 ## Getting Started 
 ### Located Under Products on the Menu Bar: <br />
 Select "Product Lists" at bottom of drop down menu <br />
-Or go straight here:  /cms/prod-list<br />
+Or go straight here:  ``/cms/prod-list``<br />
 Select **+ Add** <br />
 
 Click on the new Product List to edit. 
-Select **+ Add** to add products to the list. You can add individual product instances &mdash; but you will likely save time by utilizing the product list filters to create groups within your Product List. 
+Select **+ Add** to add Products to the list. 
+
+You can add individual Product Instances &mdash; but you will likely save time by utilizing the Product List filters to create groups within your Product List. 
 
 ### Product List Filters
 Product List Filters determine exactly which products are shown. You may select and combine the following filters:
@@ -43,20 +45,20 @@ Product List Filters determine exactly which products are shown. You may select 
 Custom sorting is available for custom product/bundle groups. Simply select the products and bundles you would like to display, then drag and drop them to the desired order.
 
 ### Photo Type
-Adding a Photo Type to a Group will display a photo of that type if it exists.  It is common to display the Vinyl Photo Type for vinyl sales, and the Cassette Photo Type for cassette sales.  If there is no image of that type the Default image will be displayed.
+Adding a Photo Type to a Group will display a photo of that type if it exists. It is common to display the Vinyl Photo Type for vinyl sales, and the Cassette Photo Type for cassette sales. If there is no image of that type the Default image will be displayed.
 
 ### Sort
 Add a sort to arrange products and bundles by Title, Release (oldest to newest, Release Desc (newest to oldest) Artist, Format, or a Custom Sort.
 
 ## Artist Stores
 
-You can use Product Lists to create Artist Stores! By default, the website will create an Artist Store Page at store/artist_name_url. 
+You can use Product Lists to create Artist Stores! By default, for each Artist an Artist Store Page will be generated at ``store/artist_name_url``. 
 
-**Example: https://keeledscales.com/store/knife_in_the_water**
+**Example:** ``https://keeledscales.com/store/knife_in_the_water``
 
 ![](/views/auto_artist_store.png)
 
-By creating a new Product List at this same url, it will override the automatically generated one! So, make sure you're spelling the artist name correctly. This is also where you would add a banner image for your artist store. 
+By creating a new Product List at this same URL Alias, we will override the automatically generated one. So, make sure you're spelling the artist name correctly in the URL Alias. This Product List edit page is also where you would add a banner image for your Artist Store. 
 
 See below for an example of an Artist Store, complete with banner and product list groups with labels:
 
@@ -69,6 +71,7 @@ Create a Product List for each group of sale items. Pick a few price tiers (3-4)
 
 ## Webstore Sections
 
-You can create product lists to link to from the website toolbar drop down. 
+You can create Product Lists to link to from the website Toolbar drop down. See the [Toolbar](Toolbar.md) section for how to edit your sites navigation. 
 
 **Example:** Pre-Orders & New Releases, Featured Products
+

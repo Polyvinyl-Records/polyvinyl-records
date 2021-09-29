@@ -4,7 +4,7 @@
 ## Getting Started
 #### Located Under "Tools" on the Menu Bar: <br />
 Select "Automators" <br />
-Or go straight here:  /cms/automators<br />
+Or go straight here:  ``/cms/automators``<br />
 <br />
 Select: **+ Add** <br />
 
