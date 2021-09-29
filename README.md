@@ -14,26 +14,26 @@ See below for a brief overview of how to navigate the CMS.
 
 ![](views/flow_chart.jpeg)
 
-### Edit View
-Each Artist, Album, Product, or Instance has two places to add information &mdash; the **edit view** and the **info** or **details view**.
-
-The edit view is located by clicking the pencil icon or the "edit" button from the info/ details view screen.
-``/cms/albums``
-
-
+### Edit View 
+**Example:**``/cms/albums``
 
 ![](views/edit_view.png)
 
+Each Artist, Album, Product, or Instance has two places to add information &mdash; the **edit view** and the **info** or **details view**.
+
+The edit view is located by clicking the pencil icon or the "edit" button from the info/ details view screen.
 
 ### Info View
+**Example:**``/cms/albums/info``
+![](views/info_view.png)
+
 The details or info view is displayed after clicking on the link once you have created an Album, Artist, Product, or Instance. 
 
-In this example above we created an Artists, Julie Byrne, and then clicked the link which was located under the name column. 
+In this example above we created an Artists, Julie Byrne, and then clicked the link which was located under the name column of the Artists section of the CMS. 
 
-Here we can edit featured products, social media links, contacts and other data that is only accessible from this screen: 
+Here we can edit featured products, social media links, contacts and other data that is only accessible from this screen. 
 
-``/cms/albums/info``
-![](views/info_view.png)
+
 
 <!-- 
 
