@@ -13,9 +13,16 @@
 * **Sales**
 * [How to Schedule a Sale](sale.md)
 * [How to Add Sale Pricing](single_item_sale.md)
+<!-- * [How to Create Coupons](coupon.md) -->
 * **Store**
 * [How to Create Product Lists](product_lists.md)
 * **Tour**
 * [How to Edit Tour Dates](tours.md)
-* **Music Videos** 
+* **Music Videos**
 * [Add YouTube Videos](Youtube.md)
+
+<!-- TODO:
+**Orders**
+* [How to Add Shipping Rates](shipping.md)
+* [How to Void an Order](void.md)
+ -->
