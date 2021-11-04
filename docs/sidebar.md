@@ -6,6 +6,7 @@
 * [How to Create an Album](album.md)
 * [How to Create a Product](product.md)
 * [How to Create an Instance](instances.md)
+
 * **Tools & Navigation**
 * [How to Use Automation](automation.md)
 * [How to Edit Toolbar](Toolbar.md)
