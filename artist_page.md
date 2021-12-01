@@ -4,6 +4,18 @@
 
 <p align="center"><img width=50% height=50% src="views/artist_page.gif"></p>
 
+## Table of Contents 
+1. [Getting Started](#getting-started)
+2. [Editing Artist Content & Info](#editing-artist-content-amp-info)
+3. [Roster Status](#roster-status)
+4. [Artist Bio](#artist-bio)
+5. [Email List](#email-list)
+6. [Tour Dates & Songkick Artist ID](#tour-dates-amp-songkick-artist-id)
+7. [Artist Photo](#artist-photo)
+8. [Social Media Links](#social-media-links)
+9. [Artist Releases](#artist-releases)
+10. [Featured Products](#featured-products)
+
 ## Getting Started
 #### Located on the Toolbar Under "Artists":
 ![](views/toolbar_artist.png)
@@ -39,7 +51,7 @@ Only Artists that are "Active Roster" will display on the Artists drop down on t
 
 **Example:** To sell products for Artists that are not on your label, you would still add them as an Artist in the CMS, but select "Not On Roster" so they are not displayed on the Artist page or drop down.
 
-## Bio
+## Artist Bio
 Add information about the Artist here to be displayed on the Artist page.
 
 ## Email List
@@ -48,7 +60,7 @@ A “Join Email List” button will display if this artist has a Mailchimp URL a
 
 ![](views/artist_page_email_list.png)
 
-## Songkick Artist ID
+## Tour Dates & Songkick Artist ID
 The Tour section on each Artist page as well as the main Tour section of the website, pulls in tour dates based on the Songkick Artist ID.
 
 In the Artist edit view, you can add "Songkick Artist ID"under **Extra Information**. You can find the artist Songkick Artist ID in the URL of their Songkick page
@@ -61,7 +73,7 @@ The Songkick Artist ID is: **8490418**
 
 For additional help troubleshooting any problems with tour dates displaying &mdash; please see the [Tours](tours.md) section.
 
-## Photo
+## Artist Photo
 The Artist photo with the lowest display order will be shown on the Artist page. Only one photo can currently be displayed at a time.
 <p align="center"><img width=80% height=80% src="views/artist_photo.png"></p>
 
@@ -73,7 +85,7 @@ You can edit these pages in the Links tab of the Artist info page:
 
 ![](views/artist_page_links.png)
 
-## Releases
+## Artist Releases
 Releases may be added to the artist page under the "Artist Page Albums" tab. If there is a product associated with the album this image will be a link to that product.
 
 ## Featured Products
