@@ -1,11 +1,13 @@
-# How to Create Artist Pages:
+# How to Create Artists & Artist Pages:
 > Edit Artist photos, tour dates, press contacts, roster status, social media links, featured products, email list and more!
 
 
 <p align="center"><img width=50% height=50% src="views/artist_page.gif"></p>
 
 ## Table of Contents 
-1. [Getting Started](#getting-started)
+1. [Getting Started](#getting-started)<br>
+    [Create Manually](#create-manually)<br>
+    [Import from Spotify](#import-from-spotify)
 2. [Editing Artist Content & Info](#editing-artist-content-amp-info)
 3. [Roster Status](#roster-status)
 4. [Artist Bio](#artist-bio)
@@ -17,16 +19,27 @@
 10. [Featured Products](#featured-products)
 
 ## Getting Started
-#### Located on the Toolbar Under "Artists":
+### Located on the Toolbar Under "Artists":
 ![](views/toolbar_artist.png)
 Or go straight here:  ``/cms/artists``<br />
 
 **Select:``+ Add``** <br />
-**This will bring you to a new Artist edit view.**
-You can use the **Spotify Import** tool to quickly add the "Name", "Sort Name" and "URL Alias" &mdash; or add manually:
+
+### Adding an Artist
+
+There's a level of flexibility when deciding how much detail to provide for any given artist. At a minimum, each artist should be created with the following information:
+
+**Name:** Controls how the artist name will be displayed on the live site.<br>
+**Sort Name:** Controls how artists will be sorted alphabetically - most band names will be listed the same as Name is noted above. An individual's name should be listed with the last name (surname) first - Rosenstock, Jeff vs American Football. <br>
+**URL Alias:** ``/artist_name`` lowercase, replace spaces with underscores: ``/jeff_rosenstock``
+
+There are two ways to add an artist and the above information to CMS:
+
+### Create Manually
+    instructions/video
+### Import from Spotify 
 <p align="center"><img width=50% height=50% src="views/add_new_artist.gif"></p>
 
-If entering this information manually, **don't forget to fill in the "URL alias".** To keep these consistent throughout your site, replace spaces with underscores so they match the Spotify Import generated URLs, for example: ``/artist_name``
 
 ## Editing Artist Content & Info
 
@@ -63,7 +76,7 @@ A “Join Email List” button will display if this artist has a Mailchimp URL a
 ## Tour Dates & Songkick Artist ID
 The Tour section on each Artist page as well as the main Tour section of the website, pulls in tour dates based on the Songkick Artist ID.
 
-In the Artist edit view, you can add "Songkick Artist ID"under **Extra Information**. You can find the artist Songkick Artist ID in the URL of their Songkick page
+In the Artist edit view, you can add "Songkick Artist ID" under **Extra Information**. You can find the artist Songkick Artist ID in the URL of their Songkick page
 
 **Example:** ``https://www.songkick.com/artists/8490418-katy-kirby``. <br>
 The Songkick Artist ID is: **8490418**
