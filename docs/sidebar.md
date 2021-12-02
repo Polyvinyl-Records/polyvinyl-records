@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * **[**Home**](/)**
-* **Getting Started**
+* **Adding Content &amp; Products**
 * [How to Create Artist Pages](artist_page.md)
 * [How to Create an Album](album.md)
 * [How to Create a Product](product.md)
