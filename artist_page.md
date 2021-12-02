@@ -1,6 +1,6 @@
 # How to Create Artists & Artist Pages:
-> Create a new artist or edit artist Page photos, tour dates, press contacts, roster status, social media links, featured products, email list and more!<br><br>
-> **Quick Start: See [Getting Started](#getting-started) & [Editing: Edit View vs Info View](#editing-edit-view-vs-info-view)**
+> Create a new Artist or edit Artist Page photos, tour dates, press contacts, roster status, social media links, featured products, email list and more!<br><br>
+> **Quick Start: See [Getting Started](#getting-started) & [Editing: Edit View &amp; Info View](#editing-edit-view-amp-info-view)**
 
 <p align="center"><img width=50% height=50% src="views/artist_page.gif"></p>
 
@@ -9,12 +9,12 @@
 1. [Getting Started](#getting-started)<br>
     - [Create Manually](#create-manually)<br>
     - [Import from Spotify](#import-from-spotify)
-2. [Editing: Edit View vs Info View](#editing-edit-view-vs-info-view)
+2. [Editing: Edit View &amp; Info View](#editing-edit-view-amp-info-view)
 3. [Roster Status](#roster-status)
 4. [Artist Bio](#artist-bio)
 5. [Email List](#email-list)
 6. [Tour Dates & Songkick artist ID](#tour-dates-amp-songkick-artist-id)
-7. [artist Photo](#artist-photo)
+7. [Artist Photo](#artist-photo)
 8. [Social Media Links](#social-media-links)
 9. [Artist Releases](#artist-releases)
 10. [Featured Products](#featured-products)
@@ -38,8 +38,10 @@ There's a level of flexibility when deciding how much detail to provide for any 
 You can add the above information **Manually** or using the **Spotify Import** tool: 
 
 - #### Create Manually
-    TODO: instructions/video
+Manually enter Artist Name, Sort Name, URL Alias and Roster Status in order to save a new artist. 
+    
 - #### Import from Spotify 
+Enter the artists name into the "Smart Import" tool located at the top of the edit view, and select the artist to import:
 <p align="center"><img width=50% height=50% src="views/add_new_artist.gif"></p>
 
 
