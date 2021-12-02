@@ -1,13 +1,14 @@
 # How to Create Artists & Artist Pages:
-> Edit Artist photos, tour dates, press contacts, roster status, social media links, featured products, email list and more!
-
-
 <p align="center"><img width=50% height=50% src="views/artist_page.gif"></p>
+
+> Edit Artist photos, tour dates, press contacts, roster status, social media links, featured products, email list and more!<br><br>
+> **Quick Start: See [Getting Started](#getting-started) & [Editing: Edit View vs Info View](#editing-edit-view-vs-info-view)**
+
 
 ## Table of Contents 
 1. [Getting Started](#getting-started)<br>
-    [Create Manually](#create-manually)<br>
-    [Import from Spotify](#import-from-spotify)
+    - [Create Manually](#create-manually)<br>
+    - [Import from Spotify](#import-from-spotify)
 2. [Editing: Edit View vs Info View](#editing-edit-view-vs-info-view)
 3. [Roster Status](#roster-status)
 4. [Artist Bio](#artist-bio)
@@ -27,35 +28,35 @@ Or go straight here:  ``/cms/artists``<br />
 
 ### Adding an Artist
 
-There's a level of flexibility when deciding how much detail to provide for any given artist. At a minimum, each artist should be created with the following information:
+There's a level of flexibility when deciding how much detail to provide for any given artist. At a minimum, each artist should be created with a **Name**, **Sort Name** and **URL Alias**. 
 
-**Name:** Controls how the artist name will be displayed on the live site.<br>
-**Sort Name:** Controls how artists will be sorted alphabetically - most band names will be listed the same as Name is noted above. An individual's name should be listed with the last name (surname) first - Rosenstock, Jeff vs American Football. <br>
-**URL Alias:** ``/artist_name`` lowercase, replace spaces with underscores: ``/jeff_rosenstock``
+- **Name:** Controls how the artist name will be displayed on the live site.<br>
+- **Sort Name:** Controls how artists will be sorted alphabetically. Most band names sort name will match their actual name. An individual's name should be listed with the last name (surname) first. **Example:** Rosenstock, Jeff vs American Football. <br>
+- **URL Alias:** ``/artist_name`` lowercase, replace spaces with underscores: ``/jeff_rosenstock``
 
-There are two ways to add an artist and the above information to CMS:
+You can add the above information **Manually** or using the **Spotify Import** tool: 
 
-### Create Manually
-    instructions/video
-### Import from Spotify 
+- #### Create Manually
+    TODO: instructions/video
+- #### Import from Spotify 
 <p align="center"><img width=50% height=50% src="views/add_new_artist.gif"></p>
 
 
 ## Editing: Edit View vs Info View
 
-Once you've added a new Artist, there are two places to edit Artist content &mdash; the **Edit View** and the **Info View**. 
+Once you've added a new Artist, there are two places to edit Artist content &amp; features &mdash; the **Edit View** and the **Info View**. 
 
-> **Edit:** Controls elements of both the Artist and Artist Page <br>
-> The **edit view** is located by clicking the pencil icon or the "edit" button:
 ![](views/edit_view.png)
 
-> **Info:** Controls elements of Artist Page Features
-> The **info view** is displayed after clicking on the Artist name link once you have created an Artist. In this example above we created an Artists, Julie Byrne, and then clicked the link which was located under the name column.
->![](views/info_view.png)
-> Here we can select the "edit button" for edit view, and also access info view to edit featured products, social media links, contacts and other data that is only accessible from this screen:
+### Edit View
+Controls elements of both the Artist and Artist Page. <br>
+The **edit view** is located by clicking the pencil icon or the "edit" button.
 
+### Info View
+Controls elements of Artist Page Features, such as featured products, social media links, contacts and other data that is only accessible from this screen.<br><br>
+The **info view** is displayed after clicking on the Artist name link once you have created an Artist. In this example below we created an Artists, Julie Byrne, and then clicked the link which was located under the name column.
 
-
+![](views/info_view.png)
 
 ## Roster Status
 Choose between **Active Roster**, **Full Roster**, **Inactive** or **Not On Roster**.
