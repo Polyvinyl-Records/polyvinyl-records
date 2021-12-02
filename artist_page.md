@@ -8,7 +8,7 @@
 1. [Getting Started](#getting-started)<br>
     [Create Manually](#create-manually)<br>
     [Import from Spotify](#import-from-spotify)
-2. [Editing Artist Content & Info](#editing-artist-content-amp-info)
+2. [Editing: Edit View vs Info View](#editing-edit-view-vs-info-view)
 3. [Roster Status](#roster-status)
 4. [Artist Bio](#artist-bio)
 5. [Email List](#email-list)
@@ -41,18 +41,20 @@ There are two ways to add an artist and the above information to CMS:
 <p align="center"><img width=50% height=50% src="views/add_new_artist.gif"></p>
 
 
-## Editing Artist Content & Info
+## Editing: Edit View vs Info View
 
-Once you've added a new Artist, there are two places to edit Artist content &mdash; the **edit view** and the **info view**:
+Once you've added a new Artist, there are two places to edit Artist content &mdash; the **Edit View** and the **Info View**. 
 
+> **Edit:** Controls elements of both the Artist and Artist Page <br>
+> The **edit view** is located by clicking the pencil icon or the "edit" button:
 ![](views/edit_view.png)
-The **edit view** is located by clicking the pencil icon or the "edit" button.
 
-The **info view** is displayed after clicking on the Artist name link once you have created an Artist. In this example above we created an Artists, Julie Byrne, and then clicked the link which was located under the name column.
+> **Info:** Controls elements of Artist Page Features
+> The **info view** is displayed after clicking on the Artist name link once you have created an Artist. In this example above we created an Artists, Julie Byrne, and then clicked the link which was located under the name column.
+>![](views/info_view.png)
+> Here we can select the "edit button" for edit view, and also access info view to edit featured products, social media links, contacts and other data that is only accessible from this screen:
 
-Here we can select the "edit button" for edit view, and also access info view to edit featured products, social media links, contacts and other data that is only accessible from this screen:
 
-![](views/info_view.png)
 
 
 ## Roster Status
