@@ -20,7 +20,7 @@
 10. [Featured Products](#featured-products)
 
 ## Getting Started
-### Located on the Toolbar Under "artists":
+### Located on the Toolbar Under "Artists":
 ![](views/toolbar_artist.png)
 Or go straight here:  ``/cms/artists``<br />
 
@@ -55,26 +55,57 @@ Once you've added a new artist, there are two places to edit artist content &amp
 Controls elements of both the artist and artist Page. <br>
 The **edit view** is located by clicking the pencil icon or the "edit" button.
 
+The following are located under the edit view: 
+- Name
+- Sort Name
+- URL Alias
+- Status (Roster Status)
+- Bio
+- Email List
+- Songkick Artist ID
+- Spotify Artist URI
+- Apple Music Link
+- [ ] Hide Related Artists
+- [ ] Show in Store Dropdown
+- [ ] Show in News
+- [ ] Pressroom
+
 ### Info View
-Controls elements of artist Page Features, such as featured products, social media links, contacts and other data that is only accessible from this screen.<br><br>
-The **info view** is displayed after clicking on the artist name link once you have created an artist. In this example below we created an artists, Julie Byrne, and then clicked the link which was located under the name column.
+Controls elements of Artist Page Features, such as featured products, social media links, contacts and other data that is only accessible from this screen.<br>
 
 ![](views/info_view.png)
+<br>
+
+The following are located under the info view: 
+- Photo
+- Featured Products
+- Links (social media links)
+- Artist Page Albums
+- People (contacts such as publicists or booking agent)
+- Pressroom 
+- Albums 
+- Tracks
+
 
 ## Roster Status
 Any artist, band, label, company, or creator can be an "artist" and attached to a product. When creating an artist, choose between the following Roster Status options: **Active Roster**, **Full Roster**, **Inactive** or **Not On Roster**.
 
-Only artists that are **Active Roster** will display on the artists drop down on the Menu bar. This list of artists is also located at ``/artist``.
+Only artists that are **Active Roster** will display on the artists drop down on the Menu bar. 
 
-- **Active Roster**: Will create an artist page, will be searchable on website, will display artist on dropdown menu and at ``/artist.``
-- **Full Roster**: Will create an artist page. Will display list of these artists below Active artists on ``/artist`` section and will be searchable on website.
-- **Inactive**: Not searchable on website, hidden.
-- **Not on Roster**: Searchable on website. 
-
-**Example:** To sell products for artists that are not on your label, you would still add them as an artist in the CMS, but select **Not On Roster** so they are not displayed on the artist page or drop down.
+- **Active Roster**: Select for current label artists. Only artists that are "Active Roster" will display on the Artists drop down on the Menu bar. These artists are also displayed as an alphabetical list of thumbnails at ``/artist``.
+![](views/artist_page_active_roster.png)
+- **Full Roster**: "Full Roster" artists are displayed alphabetically in a text based list alongside "Active Roster" artists below the "Active Roster" section at ``/artist``.
+![](views/full_roster.png)
+- **Inactive**: Hidden. 
+- **Not on Roster**: Will not display at `/artist` or in the artist dropdown on the Menu bar. Use when selling products for artists that are not on your label, label specific merch, or other companies/partners.
 
 ## Artist Bio
-Add information about the artist here to be displayed on the artist page.
+This section is often used for more general, non release-specific information about the artist. Typically this would be different than an Album bio that might be included as a product description, for example.
+
+![](views/bio_edit.png)
+
+This will be displayed on the artist page under the artist photo: 
+![](views/bio_artist_page.png)
 
 ## Email List
 
@@ -108,9 +139,15 @@ You can edit these pages in the Links tab of the artist info page:
 ![](views/artist_page_links.png)
 
 ## Artist Releases
-Releases may be added to the artist page under the "artist Page Albums" tab. If there is a product associated with the album this image will be a link to that product.
+Releases may be added to the artist page under the "Artist Page Albums" tab in the info view. 
+
+These albums will display under the Artist Releases section of the Artist Page. 
+
+![](views/artist_page_albums.png)
+
+Click ``+Add `` to add a new album. The album must exist in the CMS. To create a new album check out the [How to Create an Album](album.md) page
 
 ## Featured Products
-These products will be displayed to the right of the artist photo. We recommend having two products here, they will auto populate with the artist's best selling products.
+These products can be edited from the info view and will be displayed to the right of the artist photo. We recommend having two products here. These can be manually updated or will auto populate with the artist's best selling products.
 
 ![](views/featured_artist_page.png)
