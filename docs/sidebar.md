@@ -2,25 +2,25 @@
 
 * **[**Home**](/)**
 * **Adding Content &amp; Products**
-* [How to Create Artist Pages](artist_page.md)
-* [How to Create an Album](album.md)
-* [How to Create a Product](product.md)
-* [How to Create an Instance](instances.md)
+* [Creating Artists & Artist Pages](artist_page.md)
+* [Creating an Album](album.md)
+* [Creating a Product](product.md)
+* [Creating an Instance](instances.md)
 
 * **Tools & Navigation**
-* [How to Use Automation](automation.md)
-* [How to Edit Toolbar](Toolbar.md)
-* [How to Edit Footer](Footer.md)
+* [Automation](automation.md)
+* [Editing the Toolbar](Toolbar.md)
+* [Editing the Footer](Footer.md)
 * **Sales**
-* [How to Schedule a Sale](sale.md)
-* [How to Add Sale Pricing](single_item_sale.md)
+* [Scheduling Sales](sale.md)
+* [Sale Pricing](single_item_sale.md)
 <!-- * [How to Create Coupons](coupon.md) -->
 * **Store**
-* [How to Create Product Lists](product_lists.md)
+* [Creating Product Lists](product_lists.md)
 * **Tour**
-* [How to Edit Tour Dates](tours.md)
+* [Editing Tour Dates](tours.md)
 * **Music Videos**
-* [Add YouTube Videos](Youtube.md)
+* [Adding YouTube Videos](Youtube.md)
 
 <!-- TODO:
 **Orders**

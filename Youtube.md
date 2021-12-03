@@ -1,5 +1,5 @@
 # How to Add YouTube Videos 
-> Add Youtube videos to be displayed on the Artist page as well as the Media section of your website. 
+> Add Youtube videos to be displayed on the Artist Page as well as the Media section of your website. 
 
 ## Getting Started
 #### Located Under the Albums Dropdown Menu &mdash; select "Tracks": <br />

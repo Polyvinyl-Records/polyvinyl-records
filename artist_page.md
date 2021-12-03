@@ -18,7 +18,7 @@
 8. [Social Media Links](#social-media-links)
 9. [Artist Releases](#artist-releases)
 10. [Featured Products](#featured-products)
-
+11. [Music Videos](#music-videos)
 ## Getting Started
 ### Located on the Toolbar Under "Artists":
 ![](views/toolbar_artist.png)
@@ -59,10 +59,10 @@ The following are located under the edit view:
 - Name
 - Sort Name
 - URL Alias
-- Status (Roster Status)
-- Bio
-- Email List
-- Songkick Artist ID
+- [Status (Roster Status)](#roster-status)
+- [Bio](#artist-bio)
+- [Email List](#email-list)
+- [Songkick Artist ID](#tour-dates-amp-songkick-artist-id)
 - Spotify Artist URI
 - Apple Music Link
 - [ ] Hide Related Artists
@@ -77,10 +77,10 @@ Controls elements of Artist Page Features, such as featured products, social med
 <br>
 
 The following are located under the info view: 
-- Photo
-- Featured Products
-- Links (social media links)
-- Artist Page Albums
+- [Photo](#artist-photo)
+- [Featured Products](#featured-products)
+- [Links (social media links)](#social-media-links)
+- [Artist Page Albums](#artist-releases)
 - People (contacts such as publicists or booking agent)
 - Pressroom 
 - Albums 
@@ -151,3 +151,10 @@ Click ``+Add `` to add a new album. The album must exist in the CMS. To create a
 These products can be edited from the info view and will be displayed to the right of the artist photo. We recommend having two products here. These can be manually updated or will auto populate with the artist's best selling products.
 
 ![](views/featured_artist_page.png)
+
+## Music Videos
+See [Add YouTube Videos](Youtube.md)
+
+![](views/youtube_media_page.png)
+
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
