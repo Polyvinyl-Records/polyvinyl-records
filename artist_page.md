@@ -13,7 +13,7 @@
 3. [Roster Status](#roster-status)
 4. [Artist Bio](#artist-bio)
 5. [Email List](#email-list)
-6. [Tour Dates & Songkick artist ID](#tour-dates-amp-songkick-artist-id)
+6. [Tour Dates & Songkick Artist ID](#tour-dates-amp-songkick-artist-id)
 7. [Artist Photo](#artist-photo)
 8. [Social Media Links](#social-media-links)
 9. [Artist Releases](#artist-releases)
@@ -31,16 +31,16 @@ Or go straight here:  ``/cms/artists``<br />
 There's a level of flexibility when deciding how much detail to provide for any given artist. At a minimum, each artist should be created with a **Name**, **Sort Name** and **URL Alias**. 
 
 - **Name:** Controls how the artist name will be displayed on the live site.<br>
-- **Sort Name:** Controls how artists will be sorted alphabetically. Most band names sort name will match their actual name. An individual's name should be listed with the last name (surname) first. **Example:** Rosenstock, Jeff vs American Football. <br>
+- **Sort Name:** Controls how artist will be sorted alphabetically. The sort name for most bands will match their actual name. To sort individual names alphabetically by last name, the name should be listed with the last name (surname) first. **Example:** Rosenstock, Jeff vs American Football. <br>
 - **URL Alias:** ``/artist_name`` lowercase, replace spaces with underscores: ``/jeff_rosenstock``
 - **[Roster Status](#roster-status)**: Select either Active Roster, Full Roster, Inactive or Not On Roster. Click [here](#roster-status) for a more detailed description. 
 
 You can add the above information **Manually** or using the **Spotify Import** tool: 
 
-- #### Create Manually
-Manually enter Artist Name, Sort Name, URL Alias and Roster Status in order to save a new artist. 
+- #### **Create Manually**
+Manually enter Artist Name, Sort Name, URL Alias and Roster Status (at a minimum) in order to save a new artist. 
     
-- #### Import from Spotify 
+- #### **Import from Spotify**
 Enter the artists name into the "Smart Import" tool located at the top of the edit view, and select the artist to import:
 <p align="center"><img width=50% height=50% src="views/add_new_artist.gif"></p>
 
@@ -114,11 +114,11 @@ A “Join Email List” button will display if this artist has a Mailchimp URL a
 ![](views/artist_page_email_list.png)
 
 ## Tour Dates & Songkick Artist ID
-The Tour section on each artist page as well as the main Tour section of the website, pulls in tour dates based on the Songkick Artist ID.
+The Tour section on each Artist Page, as well as the main Tour section of the website, pulls in tour dates based on the Songkick Artist ID. This input field can be found on the artist edit view.
 
-In the artist edit view, you can add "Songkick Artist ID" under **Extra Information**. You can find the artist Songkick Artist ID in the URL of their Songkick page
+Once on the artist edit page, the "Songkick Artist ID" will be located under **Extra Information** section. If you don't know the Songkick Artist ID already, you can look it up in the URL of their Songkick page:
 
-**Example:** ``https://www.songkick.com/artists/8490418-katy-kirby``. <br>
+**Example:** <code>https://www.songkick.com/artists/<b><u>8490418</b>-katy-kirby</u></code> <br>
 The Songkick Artist ID is: **8490418**
 
 ![](views/songkick_artist_page.png)
@@ -134,18 +134,18 @@ The artist photo with the lowest display order will be shown on the artist page.
 Social media links will display underneath the artist photo on the artist page.
 <p align="center"><img width=80% height=80% src="views/social_links.png"></p>
 
-You can edit these pages in the Links tab of the artist info page:
+You can edit these in the Links tab of the artist info page:
 
 ![](views/artist_page_links.png)
 
 ## Artist Releases
-Releases may be added to the artist page under the "Artist Page Albums" tab in the info view. 
+Releases may be added to the Artist Page under the "Artist Page Albums" tab in the info view. 
 
 These albums will display under the Artist Releases section of the Artist Page. 
 
 ![](views/artist_page_albums.png)
 
-Click ``+Add `` to add a new album. The album must exist in the CMS. To create a new album check out the [How to Create an Album](album.md) page
+Click ``+Add `` to add a new album. The album must exist in the CMS. For help creating a new album check out the [Creating an Album](album.md) page.
 
 ## Featured Products
 These products can be edited from the info view and will be displayed to the right of the artist photo. We recommend having two products here. These can be manually updated or will auto populate with the artist's best selling products.
@@ -153,8 +153,7 @@ These products can be edited from the info view and will be displayed to the rig
 ![](views/featured_artist_page.png)
 
 ## Music Videos
-See [Add YouTube Videos](Youtube.md)
+See [Adding YouTube Videos](Youtube.md) for how to add YouTube videos to display in the Media and Artist Page sections.
 
 ![](views/youtube_media_page.png)
 
-<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
