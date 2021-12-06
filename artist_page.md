@@ -1,4 +1,4 @@
-# How to Create Artists & Artist Pages:
+# How to Create New Artists & Artist Pages:
 > Create a new Artist or edit Artist Page photos, tour dates, press contacts, roster status, social media links, featured products, email list and more!<br><br>
 > **Quick Start: See [Getting Started](#getting-started) & [Editing: Edit View &amp; Info View](#editing-edit-view-amp-info-view)**
 

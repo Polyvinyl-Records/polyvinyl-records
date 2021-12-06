@@ -1,7 +1,16 @@
 # How to Create a New Product:
-> Add product description, overlays, Spotify URI and record label on the Product level. 
+> Add Product Description, Sale or Pre-Order Overlays, Spotify URI, Record Label and more for a Product.
 
 <p align="center"><img width=50% height=50% src="views/album_page_main.gif"></p>
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+2. [Product Type](#product-type)
+3. [Pressquotes](#pressquotes)
+4. [Product Photo](#product-photo)
+5. [Spotify URI](#spotify-uri)
+6. [You Might Also Like Section](#you-might-also-like-section)
 
 ## Getting Started
 #### Located Under Products: <br />
@@ -12,7 +21,7 @@ Select: **+ Add** <br />
 
 If any of the above have not been created, you can select the **+** when you need to add an Artist or Album you have not yet added. 
 
-## Type 
+## Product Type 
 Select from the (PARENT) options in the drop down.
 
 **Example:** LP, CD, digital releases will have product types Music (PARENT)
@@ -20,17 +29,32 @@ Select from the (PARENT) options in the drop down.
 
 ## Pressquotes
 
-Add press quotes on the details/ info view of each product to be displayed on the Product page: 
+Add press quotes on info view of each product to be displayed on the Product Page: 
 
 ![](views/pressquotes.png)
 
-## Photos
+## Product Photo
 
-You must have a photo in order for the product to be live. The image used for the Album will automatically generate, but here you can also add additional images that link to specific instances. Edit the display order of each image. 
+You must have a photo in order for the product to be live. 
+
+For a music product you can add the album artwork here, you will have an opportunity to add format specific mock ups of or photos once you've created instances.
 
 The photo with the lowest display order will be displayed first: 
 
 ![](views/product_images.png)
+
+Once you [create instances](instances.md) you can add instance specific product photos here as well 
+
+![](views/product_photo.png)
+
+## Spotify URI
+To add Spotify player for album onto product page. 
+
+![](views/spotify_player.png)
+
+This will be added automatically if you use the Spotify Import tool, but you can also enter it in yourself by looking it up in Spotify:
+
+<p align="center"><img width=50% height=50% src="views/spotify_uri.gif"></p>
 
 
 ## You Might Also Like Section
