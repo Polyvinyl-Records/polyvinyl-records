@@ -1,5 +1,5 @@
 # How to Create Album Pages:
-> Add track metadata, products, digital media to the Album. 
+> Add track metadata, products, digital media to an Album. 
 
 
 ## Getting Started
@@ -11,8 +11,14 @@ Select: **+ Add** <br />
 
 If you are adding an Album for an Artist that has not yet been created, just select the **+** next to the Artists drop down which will direct you back to the add Artist page view to add a new artist. 
 
-## Smart Import 
-You can use the Smart Import tool to quickly generate information using Spotify for existing albums. This will generate the album title, release date, release type, discograpy date, spotify URI and URL alias. 
+- ### Create Manually 
+For an unreleased album or an album not in Spotify, you can manually enter the album information: 
+<p align="center"><img width=50% height=50% src="views/add_album_cms.gif"></p>
+
+- ### Import from Spotify
+You can use the Smart Import tool to quickly generate information using Spotify for existing albums that are on Spotify. 
+
+This will generate the album title, release date, release type, track metadata, discograpy date, Spotify URI and URL Alias. 
 
 If the album is unreleased or not available on Spotify &mdash; you can manually enter this information in. **Remember to fill in the URL alias at the bottom.** You'll likely want to keep these consistent throughout your site, replace spaces with underscores, for example: "album_name"
 
@@ -23,3 +29,11 @@ This is the root catalog number and will be displayed on the discography page. Y
 
 ## Discography Date & Release Date
 These dates may be different if you are reissuing a release. The Discography section will only display the Discography Date. The Product page will display the Release Date.  
+
+## Track Information
+The tracks associated with an album will be automatically generated using the Spotify Import tool when you create an album, or you can add them manually under the info view of the album: 
+
+![](views/Track_List_Info_View.png)
+
+The Track List section of the product page will be generated based on this track data:
+![](views/Track_List_Product_View.png)

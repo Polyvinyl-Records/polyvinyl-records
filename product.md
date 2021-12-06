@@ -1,6 +1,8 @@
 # How to Create a New Product:
 > Add product description, overlays, Spotify URI and record label on the Product level. 
 
+<p align="center"><img width=50% height=50% src="views/album_page_main.gif"></p>
+
 ## Getting Started
 #### Located Under Products: <br />
 Or go straight here:  ``/cms/products`` <br />
