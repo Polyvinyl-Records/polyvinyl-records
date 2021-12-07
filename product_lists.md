@@ -1,8 +1,17 @@
 # How to Create Product Lists
-> Create lists of products to display throughout the site or to group certain products together. 
-> Use Product Lists to build Artist Stores, Sales, Webstore Sections and more! 
+> Create lists of products to help customers browse your webstore.<br>
+> **Quick Start: Use Product Lists to build [Artist Stores](#artist-stores), [Sales](#sales), [Webstore Sections](#webstore-sections)**
 
 ![](/views/product_list_example.png)
+
+## Table of Contents
+1. [Getting Started](#getting-started)
+2. [Product List Filters](#product-list-filters)
+3. [Photo Type](#photo-type)
+4. [Sort](#sort)
+5. [Artist Stores](#artist-stores)
+6. [Sales](#sales)
+7. [Webstore Sections](#webstore-sections)
 
 ## Getting Started 
 ### Located Under Products on the Menu Bar: <br />
@@ -45,7 +54,15 @@ Product List Filters determine exactly which products are shown. You may select 
 Custom sorting is available for custom product/bundle groups. Simply select the products and bundles you would like to display, then drag and drop them to the desired order.
 
 ### Photo Type
-Adding a Photo Type to a Group will display a photo of that type if it exists. It is common to display the Vinyl Photo Type for vinyl sales, and the Cassette Photo Type for cassette sales. If there is no image of that type the Default image will be displayed.
+![](views/product_list_photo_cms.png)
+
+Adding a Photo Type to a Group will display a photo of that product type.
+
+**For example:** By selecting the Cassette (Parent) option here, this list will display photos associated with cassette instances for this product where they are acvailable 
+
+![](views/product_list_cassettes_photo.png)
+
+If there is no image of that type the Default image will be displayed.
 
 ### Sort
 Add a sort to arrange products and bundles by Title, Release (oldest to newest, Release Desc (newest to oldest) Artist, Format, or a Custom Sort.
@@ -62,7 +79,7 @@ By creating a new Product List at this same URL Alias, we will override the auto
 
 See below for an example of an Artist Store, complete with banner and product list groups with labels:
 
- ![](views/artist_store.gif)
+ <p align="center"><img width=50% height=50% src="views/artist_store.gif"></p>
 
 ## Sales
 Create a Product List for each group of sale items. Pick a few price tiers (3-4). 

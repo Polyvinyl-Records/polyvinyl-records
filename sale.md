@@ -1,9 +1,15 @@
 # How to Schedule a Sale
 > Bulk update sale prices and determine length of sale. 
 
+
+## Table of Contents
+1. [Getting Started](#getting-started)
+2. [Affected Items](#affected-items)
+3. [Sale Info View](#sale-info-view)
+
 ## Getting Started
 ### [Product Lists:](product_lists.md)
-Before you even create a new sale &mdash; the first step is to create a [**Product List**](product_lists.md) to group the sale items. We would recommend picking a few price tiers to group products into.
+The first step is to create a [**Product List**](product_lists.md) to group the products you wish to put on sale together. We would recommend picking a few price tiers to group products into.
 
 **Example** $15, $20, $25 or 10%, 15%, 30% off. 
 
@@ -47,4 +53,5 @@ This is a quick way to view the inventory of the sale items and edit as needed.
 ![](views/sale_2.png)
 
 **Please note, if a product instance has 0 inventory it will NOT show up on this view** 
+
 If you notice an item is not showing on this view that should be search for it in Product Instances and make sure the stock is more than 0 and the product is marked Active. 
