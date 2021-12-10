@@ -26,4 +26,5 @@
 **Orders**
 * [How to Add Shipping Rates](shipping.md)
 * [How to Void an Order](void.md)
+* [User Settings](settings.md)
  -->
